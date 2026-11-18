@@ -1,0 +1,6 @@
+{
+  "name": "Cadence — Fitness & Training Tracker",
+  "description": "Personal fitness tracker for workouts, strength volume, daily activity, nutrition macros, and body metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
